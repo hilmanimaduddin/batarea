@@ -11,6 +11,7 @@ import {
 import { Link } from "@remix-run/react";
 import Simple from "~/routes/nav";
 import type { V2_MetaFunction } from "@remix-run/node";
+import Footer from "~/module/footer";
 
 export default function Home() {
   return (

@@ -13,7 +13,7 @@ import { Link } from "@remix-run/react";
 
 const LinksTo = [
   { name: "Home", link: "" },
-  { name: "Profile", link: "profile" },
+  { name: "Galery", link: "galery" },
 ];
 
 export default function NavBar() {

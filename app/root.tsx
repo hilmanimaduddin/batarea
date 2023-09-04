@@ -9,7 +9,7 @@ export const meta: V2_MetaFunction = () => {
     {
       tagName: "link",
       rel: "icon",
-      href: "https://res.cloudinary.com/dlcgwbdtv/image/upload/v1693580154/371028928_351862527376297_8705048868123806502_n_z7mzxl.jpg",
+      href: "https://res.cloudinary.com/dlcgwbdtv/image/upload/v1693836013/Picsart_23-09-04_20-55-33-082_ltcwzs.png",
     },
     {
       property: "og:title",
